@@ -1,4 +1,0 @@
-tomato = "tomato"
-print(tomato)
-food_choice = input("What's your favorite food: ")
-print("Your favorite food is "+ food_choice.lower())
